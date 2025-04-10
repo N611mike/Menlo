@@ -25,3 +25,8 @@
   font-weight: 700;
   font-style: italic;
 }
+
+/* Пример использования */
+body {
+  font-family: 'Menlo', monospace;
+}
